@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+timm
+Pillow
+numpy
+opencv-python
+ultralytics
+easyocr
+transformers
+whisper
+ffmpeg-python
